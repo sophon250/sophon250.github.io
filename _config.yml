@@ -1,6 +1,6 @@
 # Site settings
 title: XuanTQ Blog 
-SEOTitle:  个人博客 | XuanTQ Blog
+SEOTitle:  玄天强的博客 | XuanTQ‘s Blog
 header-img: img/home-bg.jpg
 email: lqq4665@gmail.com
 description: "黄沙 远上 白云 间 | 一片孤城,万仞山 | 羌笛, 何须, 怨, 杨柳; | 春风 不渡 玉门关"
@@ -12,13 +12,13 @@ baseurl: ""                             # for example, '/blog' if your blog host
 
 # SNS settings
 RSS: false
-#weibo_username:     3864892580
+weibo_username:     3864892580
 zhihu_username:     xuantianqiang
 github_username:    xuantianqiang
 #twitter_username:  huxpro
 facebook_username:  
 #linkedin_username:  firstname-lastname-idxxxx
-linkedin_username:  
+linkedin_username:  qiangqiang-liu-9b89a6120
 
 
 
@@ -72,7 +72,7 @@ ga_domain:
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "春困秋乏夏打盹睡不醒的冬三月，<br>生前何必  久睡，死后注定  长眠！"
+sidebar-about-description: "Because it's there !"
 sidebar-avatar: /img/avatar-xuantq.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
