@@ -1,6 +1,6 @@
 # Site settings
 title: 玄天强 
-SEOTitle:  玄天强的博客 | XuanTQ‘s Blog
+SEOTitle:  玄天强的博客 | Xtq‘s Blog
 header-img: img/home-bg.jpg
 email: lqq4665@gmail.com
 description: "黄沙 远上 白云 间 | 一片孤城,万仞山 | 羌笛, 何须, 怨, 杨柳; | 春风 不渡 玉门关"
@@ -73,7 +73,7 @@ ga_domain:
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Because it's there !"
-sidebar-avatar: /img/avatar-xuantq.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar-xtq.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
