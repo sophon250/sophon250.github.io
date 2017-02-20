@@ -2,7 +2,7 @@
 layout:     post
 title:      "Hello, This is a Test"
 subtitle:   " \"Hello World, Hello Blog\""
-date:       2017-02-19 14:58:00
+date:       2017-02-20 11:16:00
 author:     "玄天强"
 header-img: "img/post-template-xtq.jpg"
 catalog: true
@@ -17,8 +17,15 @@ tags:
 ---
 
 
+#This is head!!!
 
+*	test1
+		
+		testA
+		testB
 
+*	test2
 
+	||	 A		||	B	|
 
-###Hello world!!!
+	|	 C		 |	D	|
