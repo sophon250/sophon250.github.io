@@ -1,5 +1,4 @@
 ---
-
 layout: 	post
 title: 		"Java的类加载过程"
 subtitle:	"A class will be loaded when necessary!"
