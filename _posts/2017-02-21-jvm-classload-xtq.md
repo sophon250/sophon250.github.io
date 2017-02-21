@@ -2,13 +2,13 @@
 layout: 	post
 title: 		"Java的类加载过程"
 subtitle:	"A class will be loaded when necessary!"
-date: 		2017-2-21 18:47:00
+date: 		2017-2-21 19:11:00
 author: 	"玄天强"
 header-img:	"img/classload-bg-xtq.jpg"
 catalog: true
 tags:
-	- Jvm
-	- Java Advanced
+    - JVM
+    - JavaAdvanced
 ---
 
 #类加载
