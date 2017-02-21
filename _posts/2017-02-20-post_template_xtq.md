@@ -9,11 +9,9 @@ catalog: true
 tags:
     - Java Basic
     - 随笔
-    - 书摘
     - Java Web
     - 拾穗
     - Classical Music
-    - Java Advanced 
 ---
 
 
