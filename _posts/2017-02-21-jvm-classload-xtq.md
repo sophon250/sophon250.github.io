@@ -8,7 +8,7 @@ header-img:	"img/mn-bg-xtq.jpg"
 catalog: true
 tags:
     - JVM
-    - JavaAdvanced
+    - 笔记
 ---
 
 #  类加载
