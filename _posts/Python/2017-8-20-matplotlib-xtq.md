@@ -64,6 +64,7 @@ tags:
 		plt.xlabel('横轴：时间', fontproperties='SimHei', fontsize=20)
 
 ##4.文本显示函数
+*	基本函数:
 
 		plot.xlabel()
 		plot.ylabel()
@@ -71,6 +72,7 @@ tags:
 		plot.text(x,y,str)
 		plot.annotate(s, xy=(x,y), xytext=(x1,y1), arrowprops=dict)
 		//字典指明箭头的一些属性
+
 ##5.子图绘制
 
 *	subplot2grid(GridSpec, CurSpec, colspan=1, rowspan=1)
